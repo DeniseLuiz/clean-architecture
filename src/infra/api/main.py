@@ -4,8 +4,8 @@ from infra.api.database import criar_tabelas
 
 app = FastAPI()
 
-app.include_router(cliente_router.router)
-app.include_router(pedido_router.router)
-app.include_router(produto_router.router)
+app.include_router(client_router.router)
+# app.include_router(pedido_router.router)
+# app.include_router(produto_router.router)
 
 criar_tabelas()

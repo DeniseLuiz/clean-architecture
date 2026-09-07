@@ -4,9 +4,11 @@ FROM python:3.11-slim
 # Evita que o Python grave arquivos .pyc e garante saída imediata dos logs no terminal
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
+ENV PYTHONPATH=/src
 
 # Define o diretório de trabalho dentro do container
 WORKDIR /src
+
 
 # 1. Copia APENAS o requirements.txt primeiro (Aproveita o Cache do Docker)
 COPY requirements.txt /src/requirements.txt

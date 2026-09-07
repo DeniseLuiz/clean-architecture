@@ -1,8 +1,8 @@
 
 
-from src.application.client.get_client.get_client_dto import GetClientInputDTO, GetClientOutputDTO
-from src.domain.__seedwork.use_case_interface import UseCaseInterface
-from src.domain.client.client_repository_interface import ClientRepositoryInterface
+from application.client.get_client.get_client_dto import GetClientInputDTO, GetClientOutputDTO
+from domain.__seedwork.use_case_interface import UseCaseInterface
+from domain.client.client_repository_interface import ClientRepositoryInterface
 
 
 class GetClientUseCase(UseCaseInterface):

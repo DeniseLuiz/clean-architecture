@@ -2,7 +2,7 @@
 
 from uuid import UUID
 
-from src.domain.client.email_vo import Email
+from domain.client.email_vo import Email
 
 
 class Client():

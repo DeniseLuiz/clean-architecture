@@ -2,10 +2,10 @@
 import uuid
 from multiprocessing.connection import Client
 
-from src.application.client.create_client.create_client_dto import CreateClientInputDTO, CreateClienteOutputDTO
-from src.domain.__seedwork import use_case_interface
-from src.domain.client.client_repository_interface import ClientRepositoryInterface
-from src.domain.client.email_vo import Email
+from application.client.create_client.create_client_dto import CreateClientInputDTO, CreateClienteOutputDTO
+from domain.__seedwork import use_case_interface
+from domain.client.client_repository_interface import ClientRepositoryInterface
+from domain.client.email_vo import Email
 
 
 class CreateClienteUseCase(use_case_interface.UseCaseInterface):
