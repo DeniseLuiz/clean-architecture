@@ -14,7 +14,7 @@ class ClientRepositoryInterface(ABC):
         raise NotImplementedError
     
     @abstractmethod
-    def get_client(self, client_id: UUID) -> Client:
+    def get_client(self, client_id: UUID) -> Client | None:
         raise NotImplementedError
     
     @abstractmethod

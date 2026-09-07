@@ -9,19 +9,19 @@ class Client():
     id: UUID
     name: str
     email: str
-    ativo: bool = True
+    active: bool = True
     
     def __init__(
         self,
         id: UUID,
         name: str,
         email: Email,
-        ativo: bool):
+        active: bool):
         
         self.id = id
         self.name = name
         self.email = email
-        self.ativo = ativo
+        self.active = active
     
     def __post_init__(self):
         self.validate()
