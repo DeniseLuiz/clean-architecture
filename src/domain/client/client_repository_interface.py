@@ -17,14 +17,14 @@ class ClientRepositoryInterface(ABC):
     def get_client(self, client_id: UUID) -> Client | None:
         raise NotImplementedError
     
-    @abstractmethod
-    def get_clients(self) -> List[Client]:
-        raise NotImplementedError
+    # @abstractmethod
+    # def get_clients(self) -> List[Client]:
+    #     raise NotImplementedError
     
-    @abstractmethod
-    def update_client(self, cliente: Client) -> Client:
-        raise NotImplementedError
+    # @abstractmethod
+    # def update_client(self, cliente: Client) -> Client:
+    #     raise NotImplementedError
     
-    @abstractmethod
-    def delete_client(self, client_id: UUID) -> None:
-        raise NotImplementedError
+    # @abstractmethod
+    # def delete_client(self, client_id: UUID) -> None:
+    #     raise NotImplementedError

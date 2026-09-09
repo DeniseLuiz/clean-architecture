@@ -8,7 +8,7 @@ from domain.client.email_vo import Email
 class Client():
     id: UUID
     name: str
-    email: str
+    email: Email
     active: bool = True
     
     def __init__(
@@ -16,7 +16,8 @@ class Client():
         id: UUID,
         name: str,
         email: Email,
-        active: bool):
+        active: bool
+        ):
         
         self.id = id
         self.name = name

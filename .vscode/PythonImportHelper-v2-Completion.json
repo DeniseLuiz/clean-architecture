@@ -1,0 +1,650 @@
+[
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClientInputDTO",
+        "importPath": "application.client.create_client.create_client_dto",
+        "description": "application.client.create_client.create_client_dto",
+        "isExtraImport": true,
+        "detail": "application.client.create_client.create_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClienteOutputDTO",
+        "importPath": "application.client.create_client.create_client_dto",
+        "description": "application.client.create_client.create_client_dto",
+        "isExtraImport": true,
+        "detail": "application.client.create_client.create_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClientInputDTO",
+        "importPath": "application.client.create_client.create_client_dto",
+        "description": "application.client.create_client.create_client_dto",
+        "isExtraImport": true,
+        "detail": "application.client.create_client.create_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "use_case_interface",
+        "importPath": "domain.__seedwork",
+        "description": "domain.__seedwork",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork",
+        "documentation": {}
+    },
+    {
+        "label": "ClientRepositoryInterface",
+        "importPath": "domain.client.client_repository_interface",
+        "description": "domain.client.client_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.client.client_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "ClientRepositoryInterface",
+        "importPath": "domain.client.client_repository_interface",
+        "description": "domain.client.client_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.client.client_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "ClientRepositoryInterface",
+        "importPath": "domain.client.client_repository_interface",
+        "description": "domain.client.client_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.client.client_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "importPath": "domain.client.email_vo",
+        "description": "domain.client.email_vo",
+        "isExtraImport": true,
+        "detail": "domain.client.email_vo",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "importPath": "domain.client.email_vo",
+        "description": "domain.client.email_vo",
+        "isExtraImport": true,
+        "detail": "domain.client.email_vo",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "importPath": "domain.client.email_vo",
+        "description": "domain.client.email_vo",
+        "isExtraImport": true,
+        "detail": "domain.client.email_vo",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "domain.client.client_entity",
+        "description": "domain.client.client_entity",
+        "isExtraImport": true,
+        "detail": "domain.client.client_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "domain.client.client_entity",
+        "description": "domain.client.client_entity",
+        "isExtraImport": true,
+        "detail": "domain.client.client_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "domain.client.client_entity",
+        "description": "domain.client.client_entity",
+        "isExtraImport": true,
+        "detail": "domain.client.client_entity",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientInputDTO",
+        "importPath": "application.client.get_client.get_client_dto",
+        "description": "application.client.get_client.get_client_dto",
+        "isExtraImport": true,
+        "detail": "application.client.get_client.get_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientOutputDTO",
+        "importPath": "application.client.get_client.get_client_dto",
+        "description": "application.client.get_client.get_client_dto",
+        "isExtraImport": true,
+        "detail": "application.client.get_client.get_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientInputDTO",
+        "importPath": "application.client.get_client.get_client_dto",
+        "description": "application.client.get_client.get_client_dto",
+        "isExtraImport": true,
+        "detail": "application.client.get_client.get_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClienteUseCase",
+        "importPath": "application.client.create_client.create_client_use_case",
+        "description": "application.client.create_client.create_client_use_case",
+        "isExtraImport": true,
+        "detail": "application.client.create_client.create_client_use_case",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientUseCase",
+        "importPath": "application.client.get_client.get_client_use_case",
+        "description": "application.client.get_client.get_client_use_case",
+        "isExtraImport": true,
+        "detail": "application.client.get_client.get_client_use_case",
+        "documentation": {}
+    },
+    {
+        "label": "obter_sessao",
+        "importPath": "infra.api.database",
+        "description": "infra.api.database",
+        "isExtraImport": true,
+        "detail": "infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "criar_tabelas",
+        "importPath": "infra.api.database",
+        "description": "infra.api.database",
+        "isExtraImport": true,
+        "detail": "infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infra.api.database",
+        "description": "infra.api.database",
+        "isExtraImport": true,
+        "detail": "infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "ClientRepositoryInterfaceSQLAchemy",
+        "importPath": "infra.client.sqlachemy.client_repository",
+        "description": "infra.client.sqlachemy.client_repository",
+        "isExtraImport": true,
+        "detail": "infra.client.sqlachemy.client_repository",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "importPath": "infra.api.routers.client_router",
+        "description": "infra.api.routers.client_router",
+        "isExtraImport": true,
+        "detail": "infra.api.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "ClientModel",
+        "importPath": "infra.client.sqlachemy.client_model",
+        "description": "infra.client.sqlachemy.client_model",
+        "isExtraImport": true,
+        "detail": "infra.client.sqlachemy.client_model",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClientInputDTO",
+        "kind": 6,
+        "importPath": "src.application.client.create_client.create_client_dto",
+        "description": "src.application.client.create_client.create_client_dto",
+        "peekOfCode": "class CreateClientInputDTO(BaseModel):\n    name: str\n    email: str\nclass CreateClienteOutputDTO(BaseModel):\n    id: UUID\n    name: str\n    email: str\n    active: bool",
+        "detail": "src.application.client.create_client.create_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClienteOutputDTO",
+        "kind": 6,
+        "importPath": "src.application.client.create_client.create_client_dto",
+        "description": "src.application.client.create_client.create_client_dto",
+        "peekOfCode": "class CreateClienteOutputDTO(BaseModel):\n    id: UUID\n    name: str\n    email: str\n    active: bool",
+        "detail": "src.application.client.create_client.create_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CreateClienteUseCase",
+        "kind": 6,
+        "importPath": "src.application.client.create_client.create_client_use_case",
+        "description": "src.application.client.create_client.create_client_use_case",
+        "peekOfCode": "class CreateClienteUseCase(use_case_interface.UseCaseInterface):\n    client_repository: ClientRepositoryInterface\n    def __init__(self, client_repo: ClientRepositoryInterface):\n        self.client_repository = client_repo\n    def execute(self, input: CreateClientInputDTO) -> CreateClienteOutputDTO:\n        client = Client (\n            id = uuid.uuid4(),\n            name = input.name,\n            email = Email(value = input.email),\n            active = True",
+        "detail": "src.application.client.create_client.create_client_use_case",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientInputDTO",
+        "kind": 6,
+        "importPath": "src.application.client.get_client.get_client_dto",
+        "description": "src.application.client.get_client.get_client_dto",
+        "peekOfCode": "class GetClientInputDTO(BaseModel):\n    id: UUID\nclass GetClientOutputDTO(BaseModel):\n    id: UUID\n    name: str\n    email: str\n    active: bool",
+        "detail": "src.application.client.get_client.get_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientOutputDTO",
+        "kind": 6,
+        "importPath": "src.application.client.get_client.get_client_dto",
+        "description": "src.application.client.get_client.get_client_dto",
+        "peekOfCode": "class GetClientOutputDTO(BaseModel):\n    id: UUID\n    name: str\n    email: str\n    active: bool",
+        "detail": "src.application.client.get_client.get_client_dto",
+        "documentation": {}
+    },
+    {
+        "label": "GetClientUseCase",
+        "kind": 6,
+        "importPath": "src.application.client.get_client.get_client_use_case",
+        "description": "src.application.client.get_client.get_client_use_case",
+        "peekOfCode": "class GetClientUseCase(UseCaseInterface):\n    client_repository: ClientRepositoryInterface\n    def __init__(self, client_repo):\n        self.client_repository = client_repo\n    def execute(self, input: str) -> GetClientOutputDTO:\n        client = self.client_repository.get_client(input)\n        if not client:\n            raise ValueError('Client not found')\n        return GetClientOutputDTO(\n            id = client.id,",
+        "detail": "src.application.client.get_client.get_client_use_case",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "kind": 6,
+        "importPath": "src.domain.client.client_entity",
+        "description": "src.domain.client.client_entity",
+        "peekOfCode": "class Client():\n    id: UUID\n    name: str\n    email: Email\n    active: bool = True\n    def __init__(\n        self,\n        id: UUID,\n        name: str,\n        email: Email,",
+        "detail": "src.domain.client.client_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ClientRepositoryInterface",
+        "kind": 6,
+        "importPath": "src.domain.client.client_repository_interface",
+        "description": "src.domain.client.client_repository_interface",
+        "peekOfCode": "class ClientRepositoryInterface(ABC):\n    @abstractmethod\n    def create_client(self, client: Client) -> None:\n        raise NotImplementedError\n    @abstractmethod\n    def get_client(self, client_id: UUID) -> Client | None:\n        raise NotImplementedError\n    # @abstractmethod\n    # def get_clients(self) -> List[Client]:\n    #     raise NotImplementedError",
+        "detail": "src.domain.client.client_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "kind": 6,
+        "importPath": "src.domain.client.email_vo",
+        "description": "src.domain.client.email_vo",
+        "peekOfCode": "class Email():\n    value: str\n    def __init__(self, value):\n        self.value = value\n        self.validate()\n    def __post_init__(self):\n        self.validate()\n    def validate(self):\n        if not self.value or not self.value.strip():\n            raise ValueError('This value is required')",
+        "detail": "src.domain.client.email_vo",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "kind": 6,
+        "importPath": "src.domain.__seedwork.use_case_interface",
+        "description": "src.domain.__seedwork.use_case_interface",
+        "peekOfCode": "class UseCaseInterface(ABC):\n    @abstractmethod\n    def execute(self, input: Any) -> Any:\n        raise NotImplementedError",
+        "detail": "src.domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "create_client",
+        "kind": 2,
+        "importPath": "src.infra.api.routers.client_router",
+        "description": "src.infra.api.routers.client_router",
+        "peekOfCode": "def create_client(input: CreateClientInputDTO, session: Session = Depends(obter_sessao)):\n    try:\n        client_repository = ClientRepositoryInterfaceSQLAchemy(session = session)\n        usecase = CreateClienteUseCase(client_repository)\n        output_dto = usecase.execute(input=input)\n    except Exception as e:\n        raise HTTPException(status_code = 400, detail=str(e))\n    return output_dto\n@client_router.get(\"/{client_id}\", status_code = 200)\ndef get_client(client_id: str, session: Session = Depends(obter_sessao)):",
+        "detail": "src.infra.api.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_client",
+        "kind": 2,
+        "importPath": "src.infra.api.routers.client_router",
+        "description": "src.infra.api.routers.client_router",
+        "peekOfCode": "def get_client(client_id: str, session: Session = Depends(obter_sessao)):\n    try:\n        client_repository = ClientRepositoryInterfaceSQLAchemy(session = session)\n        usecase = GetClientUseCase(client_repository)\n        output_dto = usecase.execute(input=client_id)\n        if not output_dto:\n            raise ('Client not found')\n        return output_dto\n    except Exception as e:\n        raise HTTPException(status_code = 400, detail=str(e))",
+        "detail": "src.infra.api.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "kind": 5,
+        "importPath": "src.infra.api.routers.client_router",
+        "description": "src.infra.api.routers.client_router",
+        "peekOfCode": "client_router = APIRouter(prefix=\"/clients\", tags=[\"Clients\"])\n@client_router.post(\"/\", status_code=201)\ndef create_client(input: CreateClientInputDTO, session: Session = Depends(obter_sessao)):\n    try:\n        client_repository = ClientRepositoryInterfaceSQLAchemy(session = session)\n        usecase = CreateClienteUseCase(client_repository)\n        output_dto = usecase.execute(input=input)\n    except Exception as e:\n        raise HTTPException(status_code = 400, detail=str(e))\n    return output_dto",
+        "detail": "src.infra.api.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "src.infra.api.config",
+        "description": "src.infra.api.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    CONEXAO_BANCO_DE_DADOS: str = Field(..., env=\"CONEXAO_BANCO_DE_DADOS\")\nsettings = Settings()",
+        "detail": "src.infra.api.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "src.infra.api.config",
+        "description": "src.infra.api.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "src.infra.api.config",
+        "documentation": {}
+    },
+    {
+        "label": "obter_sessao",
+        "kind": 2,
+        "importPath": "src.infra.api.database",
+        "description": "src.infra.api.database",
+        "peekOfCode": "def obter_sessao() -> Generator[Session, None, None]:\n    \"\"\"Gerador que fornece uma sessão do banco de dados e garante seu fechamento.\"\"\"\n    banco = SessaoLocal()\n    try:\n        yield banco\n    finally:\n        banco.close()\ndef criar_tabelas() -> None:\n    \"\"\"Cria no banco de dados todas as tabelas registradas que herdam de Base.\"\"\"\n    Base.metadata.create_all(bind=engine)",
+        "detail": "src.infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "criar_tabelas",
+        "kind": 2,
+        "importPath": "src.infra.api.database",
+        "description": "src.infra.api.database",
+        "peekOfCode": "def criar_tabelas() -> None:\n    \"\"\"Cria no banco de dados todas as tabelas registradas que herdam de Base.\"\"\"\n    Base.metadata.create_all(bind=engine)",
+        "detail": "src.infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "src.infra.api.database",
+        "description": "src.infra.api.database",
+        "peekOfCode": "engine = create_engine(settings.CONEXAO_BANCO_DE_DADOS)\n# Configura a fábrica de sessões do SQLAlchemy\nSessaoLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Classe base para os modelos ORM herdarem\nBase = declarative_base()\ndef obter_sessao() -> Generator[Session, None, None]:\n    \"\"\"Gerador que fornece uma sessão do banco de dados e garante seu fechamento.\"\"\"\n    banco = SessaoLocal()\n    try:\n        yield banco",
+        "detail": "src.infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessaoLocal",
+        "kind": 5,
+        "importPath": "src.infra.api.database",
+        "description": "src.infra.api.database",
+        "peekOfCode": "SessaoLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Classe base para os modelos ORM herdarem\nBase = declarative_base()\ndef obter_sessao() -> Generator[Session, None, None]:\n    \"\"\"Gerador que fornece uma sessão do banco de dados e garante seu fechamento.\"\"\"\n    banco = SessaoLocal()\n    try:\n        yield banco\n    finally:\n        banco.close()",
+        "detail": "src.infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "src.infra.api.database",
+        "description": "src.infra.api.database",
+        "peekOfCode": "Base = declarative_base()\ndef obter_sessao() -> Generator[Session, None, None]:\n    \"\"\"Gerador que fornece uma sessão do banco de dados e garante seu fechamento.\"\"\"\n    banco = SessaoLocal()\n    try:\n        yield banco\n    finally:\n        banco.close()\ndef criar_tabelas() -> None:\n    \"\"\"Cria no banco de dados todas as tabelas registradas que herdam de Base.\"\"\"",
+        "detail": "src.infra.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.infra.api.main",
+        "description": "src.infra.api.main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(client_router)\n# app.include_router(pedido_router.router)\n# app.include_router(produto_router.router)\ncriar_tabelas()",
+        "detail": "src.infra.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "ClientModel",
+        "kind": 6,
+        "importPath": "src.infra.client.sqlachemy.client_model",
+        "description": "src.infra.client.sqlachemy.client_model",
+        "peekOfCode": "class ClientModel(Base):\n    __tablename__ = 'tb_clients'\n    id = Column(UUID, primary_key = True)\n    name = Column(String, nullable = False)\n    email = Column(String, nullable = False)\n    active = Column(Boolean, nullable = False)",
+        "detail": "src.infra.client.sqlachemy.client_model",
+        "documentation": {}
+    },
+    {
+        "label": "ClientRepositoryInterfaceSQLAchemy",
+        "kind": 6,
+        "importPath": "src.infra.client.sqlachemy.client_repository",
+        "description": "src.infra.client.sqlachemy.client_repository",
+        "peekOfCode": "class ClientRepositoryInterfaceSQLAchemy(ClientRepositoryInterface):\n    session: Session\n    def __init__(self, session: Session):\n        self.session = session\n    def create_client(self, client: Client) -> None:\n        client_model = ClientModel(\n            id = client.id,\n            name = client.name,\n            email = client.email.value,\n            active = client.active     ",
+        "detail": "src.infra.client.sqlachemy.client_repository",
+        "documentation": {}
+    }
+]

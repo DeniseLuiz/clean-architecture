@@ -9,10 +9,10 @@ services:
     volumes:
       - ./src:/src
     ports:
-      - "8000:8000"
+      - "8100:8100"
     environment:
       - CONEXAO_BANCO_DE_DADOS=postgresql://postgres:${POSTGRES_PASSWORD:-postgres}@postgres:5432/${POSTGRES_DB:-clean_arch_db}
-    command: uvicorn infra.api.main:app --host 0.0.0.0 --port 8000 --reload
+    command: uvicorn infra.api.main:app --host 0.0.0.0 --port 8100 --reload
     depends_on:
       postgres:
         condition: service_healthy

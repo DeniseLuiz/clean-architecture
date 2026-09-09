@@ -11,8 +11,8 @@ class GetClientUseCase(UseCaseInterface):
     def __init__(self, client_repo):
         self.client_repository = client_repo
         
-    def execute(self, input: GetClientInputDTO) -> GetClientOutputDTO:
-        client = self.client_repository.get_client(input.id)
+    def execute(self, input: str) -> GetClientOutputDTO:
+        client = self.client_repository.get_client(input)
         
         if not client:
             raise ValueError('Client not found')

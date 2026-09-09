@@ -16,7 +16,7 @@ client_router = APIRouter(prefix="/clients", tags=["Clients"])
 
 
 @client_router.post("/", status_code=201)
-def create_client(self, input: CreateClientInputDTO, session: Session = Depends(obter_sessao)):
+def create_client(input: CreateClientInputDTO, session: Session = Depends(obter_sessao)):
     try:
         client_repository = ClientRepositoryInterfaceSQLAchemy(session = session)
         usecase = CreateClienteUseCase(client_repository)
@@ -24,13 +24,14 @@ def create_client(self, input: CreateClientInputDTO, session: Session = Depends(
         
     except Exception as e:
         raise HTTPException(status_code = 400, detail=str(e))
+    return output_dto
 
 @client_router.get("/{client_id}", status_code = 200)
-def get_client(self, input: GetClientInputDTO, session: Session = Depends(obter_sessao)):
+def get_client(client_id: str, session: Session = Depends(obter_sessao)):
     try:
         client_repository = ClientRepositoryInterfaceSQLAchemy(session = session)
         usecase = GetClientUseCase(client_repository)
-        output_dto = usecase.execute(input=input)
+        output_dto = usecase.execute(input=client_id)
         if not output_dto:
             raise ('Client not found')
         return output_dto
