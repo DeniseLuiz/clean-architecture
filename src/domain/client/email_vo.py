@@ -7,11 +7,8 @@ class Email():
         self.value = value
         self.validate()
         
-    def __post_init__(self):
-        self.validate()
-    
     def validate(self):
         if not self.value or not self.value.strip():
             raise ValueError('This value is required')
-        if '.' not in self.value or '@' not in self.value:
+        if '.' not in self.value or '@' not in self.valor:
             raise ValueError('Invalid value. You must have the required taxonomy')

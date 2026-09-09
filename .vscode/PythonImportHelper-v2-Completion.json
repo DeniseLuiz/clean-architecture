@@ -517,7 +517,7 @@
         "kind": 6,
         "importPath": "src.domain.client.email_vo",
         "description": "src.domain.client.email_vo",
-        "peekOfCode": "class Email():\n    value: str\n    def __init__(self, value):\n        self.value = value\n        self.validate()\n    def __post_init__(self):\n        self.validate()\n    def validate(self):\n        if not self.value or not self.value.strip():\n            raise ValueError('This value is required')",
+        "peekOfCode": "class Email():\n    value: str\n    def __init__(self, value):\n        self.value = value\n        self.validate()\n    def validate(self):\n        if not self.value or not self.value.strip():\n            raise ValueError('This value is required')\n        if '.' not in self.value or '@' not in self.valor:\n            raise ValueError('Invalid value. You must have the required taxonomy')",
         "detail": "src.domain.client.email_vo",
         "documentation": {}
     },
